@@ -109,15 +109,18 @@ const timer = setInterval(function(){
             sessionTimer--;
         }
         else{
-            if(breakTimer>0){
+            if(sessionTimer > -2){
                 audio.play();
+                sessionTimer--;
+            }
+            else if(breakTimer>0){
                 timerLabel.innerHTML = "Currently in Break";
                 var m = Math.floor(breakTimer / 60).pad();
                 var s = (breakTimer % 60).pad();
                 timeLeft.innerHTML = m+ ":"+ s; 
                 breakTimer--;
             }
-            else if(breakTimer ==0){
+            else if(breakTimer==0){
                 audio.play();
                 sessionTimer = parseInt(sessionLength.innerHTML) * 60;
                 breakTimer = parseInt(breakLength.innerHTML) * 60;
