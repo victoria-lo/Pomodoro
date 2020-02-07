@@ -1,0 +1,48 @@
+h1,h3, h4{
+    text-align: center;
+    font-weight: bold;
+    color: white;
+}
+
+h2{
+    display: inline;
+    color: white;
+}
+
+h4{
+    margin: 30px, 30px, 30px, 30px;
+    font-size: 35px;
+}
+
+h5{
+    font-size: 50px;
+    color: white;
+    margin-top: 20px;
+}
+#timer-label{
+    font-size: 25px;
+    font-weight: normal;
+    margin-top: 10px;
+}
+#start_stop #reset{
+    font-size: 34px;
+    margin-top: 35px;
+    width: 35%;
+}
+
+.jumbotron{
+    background-color: rgb(35, 117, 223);
+}
+
+body{
+    background-color: rgb(69, 169, 231);
+}
+
+.timer {
+    border: 7px solid white;
+    margin: 20px auto 10px auto;
+    width: 270px;
+    height: 160px;
+    border-radius: 50px;
+    position: relative;
+}
