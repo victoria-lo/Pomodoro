@@ -4,7 +4,7 @@
 
 📝 [DEVLOG](https://medium.com/@victoria2666/100-days-of-code-day-4-of-100-3e5b17de6b96)
 
-View project on [victoria-lo.github.io/Pomodoro/](https://victoria-lo.github.io/Pomodoro/)
+👀 [VIEW PROJECT](https://victoria-lo.github.io/Pomodoro/)
 
 ## The Project
 - Built with JavaScript, HTML, Bootstrap and CSS to create a simple Podomoro Timer.
