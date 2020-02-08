@@ -2,7 +2,7 @@
 **Productivity Timer**
 > 100DaysOfCode: Day 4
 
-Day 4 [devlog](https://medium.com/@victoria2666/100-days-of-code-day-4-of-100-3e5b17de6b96)
+📝 [DEVLOG](https://medium.com/@victoria2666/100-days-of-code-day-4-of-100-3e5b17de6b96)
 
 View project on [victoria-lo.github.io/Pomodoro/](https://victoria-lo.github.io/Pomodoro/)
 
